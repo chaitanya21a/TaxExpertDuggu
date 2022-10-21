@@ -1,0 +1,26 @@
+header.head img{
+    vertical-align: middle;
+    padding: 5px;
+    
+    
+}
+header.head{
+    background-color: blue;
+}
+header.head img:hover{
+    background-color: black;
+    border-radius: 25px;
+    height: 42px;
+    width: 42px;
+}
+img#i1{
+    display: block;
+    max-width: 50%;
+}
+img#i2{
+    display: block;
+    max-width: 50%;
+}
+footer{
+    background-color: blue;
+}

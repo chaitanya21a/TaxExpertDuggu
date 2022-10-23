@@ -1,2 +1,2 @@
 # TaxExpertDuggu
-This is a project made by me for my dad.
+This is a first project made by me using what i learned in HTML and CSS

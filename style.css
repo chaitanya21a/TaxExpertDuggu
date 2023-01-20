@@ -1,5 +1,5 @@
 body{
-    background-color: #DAE5FB;
+    background-color: #ececec;
 }
 header.head img{
     vertical-align: middle;
@@ -11,6 +11,8 @@ header.head{
     background-color: #9D8DF1;
     position: fixed;
     width: 100%;
+    z-index: 1;
+    border-radius: 4px;
 }
 header.head img:hover{
     background-color: #1CFEBA;
@@ -89,4 +91,22 @@ b.hello{
 }       
 .active{
     background-color:#1CFEBA;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    align-content: center;
+}
+table{
+    margin:auto;
+    align-items: center;
+}
+td,th{
+    padding: 15px;
+}
+td{
+    background-color: #B1A4F4;
+}
+th{
+    background-color: #9D8DF1;
 }
